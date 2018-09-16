@@ -1,0 +1,4 @@
+#Wed Mar 14 21:40:32 BDT 2018
+base.0=F\:\\edu\\AndrProjects\\calc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\83
+path.0=classes.dex
+renamed.0=classes.dex

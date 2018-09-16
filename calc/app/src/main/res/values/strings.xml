@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="Hints">0.0</string>
+    <string name="calcOne">1</string>
+    <string name="calcTwo">2</string>
+    <string name="calcThree">3</string>
+    <string name="calcFour">4</string>
+    <string name="calcFive">5</string>
+    <string name="calcSix">6</string>
+    <string name="calcSeven">7</string>
+    <string name="calcEight">8</string>
+    <string name="calcNine">9</string>
+    <string name="calcZero">0</string>
+    <string name="calcDZero">00</string>
+
+    <string name="calcDiv">/</string>
+    <string name="calcMult">*</string>
+    <string name="calcMinus">-</string>
+    <string name="calcDot">.</string>
+    <string name="calcEqual">=</string>
+    <string name="calcPlus">+</string>
+
+    <string name="calcHist">LOG</string>
+    <string name="calcClr">C</string>
+    <string name="calcAC">AC</string>
+
+    <string name="calcM">M</string>
+    <string name="calcMP">M+</string>
+    <string name="calcMm">M-</string>
+    <string name="calcMC">MC</string>
+</resources>
